@@ -1,0 +1,10 @@
+
+.appBar{
+    background-color: rgba(165, 107, 219, 1);
+  }
+  .userImg{
+    border-radius: 40px;
+    width:140px;
+    height: 135px; 
+     background-color: #b8afc2;
+  }
